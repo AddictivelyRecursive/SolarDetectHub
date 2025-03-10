@@ -1,0 +1,6 @@
+names:
+  0: solar_panel
+path: C:\Users\HP\Downloads\labels-20250212T103318Z-001\labels\solar_panel_project\dataset
+test: images/test
+train: images/train
+val: images/val
